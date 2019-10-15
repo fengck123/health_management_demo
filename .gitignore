@@ -1,2 +1,3 @@
 venv/
-frontend/h_m_d/node_modules
+frontend/h_m_d/node_modules/
+backend/h_m_d/h_m_d/__pycache__/
